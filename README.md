@@ -49,3 +49,12 @@ Fake_Real_News/
 
 ## Disclaimer
 This model identifies patterns learned from its training dataset. Its predictions do not independently verify whether a news article is factually true.
+
+## Live Demo
+
+Try the application here:
+https://fakerealnews-mknyss79nzfk8jkmzfgrg8.streamlit.app/
+
+## Source Code
+
+https://github.com/omar-tg7/Fake_Real_News
